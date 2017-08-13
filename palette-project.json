@@ -1,0 +1,40 @@
+{
+    "data": {
+        "items": "",
+        "started": "",
+        "activePalette": "",
+        "activeColor": "",
+        "activeIndex": "",
+        "clickedPalette": "",
+        "clickedColor": "",
+        "nextColor": "",
+        "prevColor": ""
+    },
+    "lifecycle-hooks": {
+        "created": "",
+        "mounted": ""
+    },
+    "watch": {
+        "started": "",
+        "activeIndex": "",
+        "activePalette": ""
+    }, 
+    "computed": {
+        "activeValues": "",
+        "paletteSize": ""
+    }, 
+    "methods": {
+        "fetchData": "",
+        "createColorWheel": "",
+        "createSpectrum": "",
+        "createTitleOnAPath": "",
+        "assignColors": "",
+        "fillColor": "",
+        "strokeColor": "",
+        "rotateWheel": "",
+        "erasePrevious": "",
+        "passNewValues": "",
+        "prevPalette": "",
+        "nextPalette": ""
+    }
+}
