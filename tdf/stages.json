@@ -2,7 +2,7 @@
   {
     "ID": 1,
     "NAME": "STAGE 01",
-    "DISTANCE": "14 KM",
+    "DISTANCE": "14",
     "ROUTE": "KMDÜSSELDORF / DÜSSELDORF",
     "WINNER": "THOMAS G.",
     "UCI_CODE": "SKY",
@@ -13,7 +13,7 @@
   {
     "ID": 2,
     "NAME": "STAGE 02",
-    "DISTANCE": "203.5 KM",
+    "DISTANCE": "203.5",
     "ROUTE": "DÜSSELDORF / LIÈGE",
     "WINNER": "KITTEL M.",
     "UCI_CODE": "QST",
@@ -24,7 +24,7 @@
   {
     "ID": 3,
     "NAME": "STAGE 03",
-    "DISTANCE": "212.5 KM",
+    "DISTANCE": "212.5",
     "ROUTE": "VERVIERS / LONGWY",
     "WINNER": "SAGAN P.",
     "UCI_CODE": "BOH",
@@ -35,7 +35,7 @@
   {
     "ID": 4,
     "NAME": "STAGE 04",
-    "DISTANCE": "207.5 KM",
+    "DISTANCE": "207.5",
     "ROUTE": "MONDORF-LES-BAINS / VITTEL",
     "WINNER": "DEMARE A.",
     "UCI_CODE": "FDJ",
@@ -46,7 +46,7 @@
   {
     "ID": 5,
     "NAME": "STAGE 05",
-    "DISTANCE": "160.5 KM",
+    "DISTANCE": "160.5",
     "ROUTE": "VITTEL / LA PLANCHE DES BELLES FILLES",
     "WINNER": "ARU F.",
     "UCI_CODE": "AST",
@@ -57,7 +57,7 @@
   {
     "ID": 6,
     "NAME": "STAGE 06",
-    "DISTANCE": "216 KM",
+    "DISTANCE": "216",
     "ROUTE": "VESOUL / TROYES",
     "WINNER": "KITTEL M.",
     "UCI_CODE": "QST",
@@ -68,7 +68,7 @@
   {
     "ID": 7,
     "NAME": "STAGE 07",
-    "DISTANCE": "213.5 KM",
+    "DISTANCE": "213.5",
     "ROUTE": "TROYES / NUITS-SAINT-GEORGES",
     "WINNER": "KITTEL M.",
     "UCI_CODE": "QST",
@@ -79,7 +79,7 @@
   {
     "ID": 8,
     "NAME": "STAGE 08",
-    "DISTANCE": "187.5 KM",
+    "DISTANCE": "187.5",
     "ROUTE": "DOLE / STATION DES ROUSSES",
     "WINNER": "CALMEJANE L.",
     "UCI_CODE": "DEN",
@@ -90,7 +90,7 @@
   {
     "ID": 9,
     "NAME": "STAGE 09",
-    "DISTANCE": "181.5 KM",
+    "DISTANCE": "181.5",
     "ROUTE": "NANTUA / CHAMBÉRY",
     "WINNER": "URAN R.",
     "UCI_CODE": "CDT",
@@ -101,7 +101,7 @@
   {
     "ID": 10,
     "NAME": "STAGE 10",
-    "DISTANCE": "178 KM",
+    "DISTANCE": "178",
     "ROUTE": "PÉRIGUEUX / BERGERAC",
     "WINNER": "KITTEL M.",
     "UCI_CODE": "QST",
@@ -112,7 +112,7 @@
   {
     "ID": 11,
     "NAME": "STAGE 11",
-    "DISTANCE": "203.5 KM",
+    "DISTANCE": "203.5",
     "ROUTE": "EYMET / PAU",
     "WINNER": "KITTEL M.",
     "UCI_CODE": "QST",
@@ -123,7 +123,7 @@
   {
     "ID": 12,
     "NAME": "STAGE 12",
-    "DISTANCE": "214.5 KM",
+    "DISTANCE": "214.5",
     "ROUTE": "PAU / PEYRAGUDES",
     "WINNER": "BARDET R.",
     "UCI_CODE": "ALM",
@@ -134,7 +134,7 @@
   {
     "ID": 13,
     "NAME": "STAGE 13",
-    "DISTANCE": "101 KM",
+    "DISTANCE": "101",
     "ROUTE": "SAINT-GIRONS / FOIX",
     "WINNER": "BARGUIL W.",
     "UCI_CODE": "SUN",
@@ -145,7 +145,7 @@
   {
     "ID": 14,
     "NAME": "STAGE 14",
-    "DISTANCE": "181.5 KM",
+    "DISTANCE": "181.5",
     "ROUTE": "BLAGNAC / RODEZ",
     "WINNER": "MATTHEWS M.",
     "UCI_CODE": "SUN",
@@ -156,7 +156,7 @@
   {
     "ID": 15,
     "NAME": "STAGE 15",
-    "DISTANCE": "189.5 KM",
+    "DISTANCE": "189.5",
     "ROUTE": "LAISSAC-SÉVÉRAC L'ÉGLISE / LE PUY-EN-VELAY",
     "WINNER": "MOLLEMA B.",
     "UCI_CODE": "TFS",
@@ -167,7 +167,7 @@
   {
     "ID": 16,
     "NAME": "STAGE 16",
-    "DISTANCE": "165 KM",
+    "DISTANCE": "165",
     "ROUTE": "LE PUY-EN-VELAY / ROMANS-SUR-ISÈRE",
     "WINNER": "MATTHEWS M.",
     "UCI_CODE": "SUN",
@@ -178,7 +178,7 @@
   {
     "ID": 17,
     "NAME": "STAGE 17",
-    "DISTANCE": "183 KM",
+    "DISTANCE": "183",
     "ROUTE": "LA MURE / SERRE-CHEVALIER",
     "WINNER": "ROGLIC P.",
     "UCI_CODE": "TLJ",
@@ -189,7 +189,7 @@
   {
     "ID": 18,
     "NAME": "STAGE 18",
-    "DISTANCE": "179.5 KM",
+    "DISTANCE": "179.5",
     "ROUTE": "BRIANÇON / IZOARD",
     "WINNER": "BARGUIL W.",
     "UCI_CODE": "SUN",
@@ -200,7 +200,7 @@
   {
     "ID": 19,
     "NAME": "STAGE 19",
-    "DISTANCE": "222.5 KM",
+    "DISTANCE": "222.5",
     "ROUTE": "EMBRUN / SALON-DE-PROVENCE",
     "WINNER": "BOASSON HAGEN E.",
     "UCI_CODE": "DDD",
@@ -211,7 +211,7 @@
   {
     "ID": 20,
     "NAME": "STAGE 20",
-    "DISTANCE": "22.5 KM",
+    "DISTANCE": "22.5",
     "ROUTE": "MARSEILLE / MARSEILLE",
     "WINNER": "BODNAR M.",
     "UCI_CODE": "BOH",
@@ -222,7 +222,7 @@
   {
     "ID": 21,
     "NAME": "STAGE 21",
-    "DISTANCE": "103 KM",
+    "DISTANCE": "103",
     "ROUTE": "MONTGERON / PARIS CHAMPS-ÉLYSÉES",
     "WINNER": "GROENEWEGEN D.",
     "UCI_CODE": "TLJ",
