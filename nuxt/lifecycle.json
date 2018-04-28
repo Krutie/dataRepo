@@ -3,12 +3,11 @@
   "middleware": {
     "m1": "App Level",
     "m2": "Layout Level",
-    "m3": "Page Level"
+    "m3": "Page (component) Level"
   },
   "validate": "Validates parameter value",
   "asyncData": "Set component data",
   "fetch": "Call page specific data, mostly from Store",
-  "data": "Same as traditional Vue app",
   "created": "Called on both client-side and server-side",
   "mounted": "Called only on client-side"
 }
